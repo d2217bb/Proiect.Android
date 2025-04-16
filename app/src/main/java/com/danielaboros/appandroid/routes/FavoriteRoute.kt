@@ -1,0 +1,6 @@
+package com.danielaboros.appandroid.routes
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+data object FavoriteRoute

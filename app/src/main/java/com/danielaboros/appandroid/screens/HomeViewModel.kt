@@ -40,7 +40,6 @@ class HomeViewModel(
             if (newObjects.isEmpty()) {
                 _isLastPage.value = true
             } else {
-                // Filter out any objects we've already loaded
                 val uniqueNewObjects = newObjects.filter { obj ->
                     loadedIds.add(obj.id)
                 }

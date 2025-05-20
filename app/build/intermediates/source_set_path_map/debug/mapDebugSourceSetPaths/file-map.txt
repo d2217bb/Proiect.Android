@@ -78,10 +78,10 @@ com.danielaboros.androidapp-core-common-2.0.3-76 /Users/personal/.gradle/caches/
 com.danielaboros.androidapp-material-ripple-release-77 /Users/personal/.gradle/caches/8.11.1/transforms/fad6c07dc36bccaceb13f0b49171ad23/transformed/material-ripple-release/res
 com.danielaboros.androidapp-lifecycle-livedata-core-2.8.7-78 /Users/personal/.gradle/caches/8.11.1/transforms/fc05a16fdf2ebc23235742a620161d76/transformed/lifecycle-livedata-core-2.8.7/res
 com.danielaboros.androidapp-transition-1.4.1-79 /Users/personal/.gradle/caches/8.11.1/transforms/fea6fc56860f39c8433697f0384f6d96/transformed/transition-1.4.1/res
-com.danielaboros.androidapp-pngs-80 /Users/personal/AndroidStudioProjects/Android_AP/app/build/generated/res/pngs/debug
-com.danielaboros.androidapp-resValues-81 /Users/personal/AndroidStudioProjects/Android_AP/app/build/generated/res/resValues/debug
-com.danielaboros.androidapp-packageDebugResources-82 /Users/personal/AndroidStudioProjects/Android_AP/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.danielaboros.androidapp-packageDebugResources-83 /Users/personal/AndroidStudioProjects/Android_AP/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.danielaboros.androidapp-debug-84 /Users/personal/AndroidStudioProjects/Android_AP/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.danielaboros.androidapp-debug-85 /Users/personal/AndroidStudioProjects/Android_AP/app/src/debug/res
-com.danielaboros.androidapp-main-86 /Users/personal/AndroidStudioProjects/Android_AP/app/src/main/res
+com.danielaboros.androidapp-pngs-80 /Users/personal/AndroidStudioProjects/Proiect.Android/app/build/generated/res/pngs/debug
+com.danielaboros.androidapp-resValues-81 /Users/personal/AndroidStudioProjects/Proiect.Android/app/build/generated/res/resValues/debug
+com.danielaboros.androidapp-packageDebugResources-82 /Users/personal/AndroidStudioProjects/Proiect.Android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.danielaboros.androidapp-packageDebugResources-83 /Users/personal/AndroidStudioProjects/Proiect.Android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.danielaboros.androidapp-debug-84 /Users/personal/AndroidStudioProjects/Proiect.Android/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.danielaboros.androidapp-debug-85 /Users/personal/AndroidStudioProjects/Proiect.Android/app/src/debug/res
+com.danielaboros.androidapp-main-86 /Users/personal/AndroidStudioProjects/Proiect.Android/app/src/main/res

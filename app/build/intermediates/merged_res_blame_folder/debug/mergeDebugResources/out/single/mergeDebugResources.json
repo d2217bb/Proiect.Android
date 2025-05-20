@@ -52,20 +52,12 @@
         "source": "com.danielaboros.androidapp-main-86:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.danielaboros.androidapp-debug-84:/drawable_ic_error.xml.flat",
-        "source": "com.danielaboros.androidapp-main-86:/drawable/ic_error.xml"
-    },
-    {
         "merged": "com.danielaboros.androidapp-debug-84:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.danielaboros.androidapp-main-86:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.danielaboros.androidapp-debug-84:/xml_backup_rules.xml.flat",
         "source": "com.danielaboros.androidapp-main-86:/xml/backup_rules.xml"
-    },
-    {
-        "merged": "com.danielaboros.androidapp-debug-84:/drawable_ic_placeholder.xml.flat",
-        "source": "com.danielaboros.androidapp-main-86:/drawable/ic_placeholder.xml"
     },
     {
         "merged": "com.danielaboros.androidapp-debug-84:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",

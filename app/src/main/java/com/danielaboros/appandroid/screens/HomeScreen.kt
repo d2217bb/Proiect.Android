@@ -207,7 +207,7 @@ private fun FavoriteButton(
         Icon(
             imageVector = if (isFavorite) Icons.Filled.Favorite else Icons.Outlined.FavoriteBorder,
             contentDescription = if (isFavorite) "Remove from favorites" else "Add to favorites",
-            tint = if (isFavorite) Color.Pink else MaterialTheme.colorScheme.onSurfaceVariant
+            tint = if (isFavorite) Color.Blue else MaterialTheme.colorScheme.onSurfaceVariant
         )
     }
 }
